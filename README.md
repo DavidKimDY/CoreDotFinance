@@ -5,6 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/coredotfinance.svg)](https://badge.fury.io/py/coredotfinance)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
+[![codecov](https://codecov.io/gh/DavidKimDY/CoreDotFinance/branch/main/graph/badge.svg?token=MXHQFW2R6E)](https://codecov.io/gh/DavidKimDY/CoreDotFinance)
 ----------------------------
 
 ## 금융 데이터를 쉽고 빠르게!
