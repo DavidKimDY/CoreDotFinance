@@ -21,7 +21,7 @@ jobs:
         pip install coredotfinance
         pip install pytest
         pip install coverage
-        coverage run -m coverage
+        coverage run -m pytest
         coverage xml
         ls
     - name: Upload coverage to Codecov
