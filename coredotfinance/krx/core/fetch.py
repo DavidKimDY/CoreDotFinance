@@ -58,7 +58,7 @@ def get_krx_data(post_params):
         print(
             f"\tdata:\t{post_params}\n"
             f"error:\t{e}\n"
-            f"status code:\t{r.status_code}"
+            f"status code:\t{r.status_code}\n"
             f"response:\t{r}"
         )
 

@@ -1,6 +1,6 @@
 # CoreDotFinance
 ### Powerful Python financial data library
-[![GitHup issues](https://img.shields.io/github/issues/CoreDotToday/CoreDotFinance)](https://github.com/CoreDotToday/CoreDotFinance/issues)
+[![GitHub issues](https://img.shields.io/github/issues/CoreDotToday/CoreDotFinance)](https://github.com/CoreDotToday/CoreDotFinance/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/CoreDotToday/CoreDotFinance)](https://github.com/CoreDotToday/CoreDotFinance/pulls)
 [![PyPI version](https://badge.fury.io/py/coredotfinance.svg)](https://badge.fury.io/py/coredotfinance)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)

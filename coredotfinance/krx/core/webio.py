@@ -51,5 +51,3 @@ def status_ok(res):
         raise ConnectionError(
             f"response is not 200 from the server.\nstatus_code : {res.status_code}"
         )
-    else:
-        pass

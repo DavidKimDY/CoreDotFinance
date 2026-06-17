@@ -6,7 +6,7 @@ from coredotfinance.krx.core.function_code_list import *
 
 def get_krx_instance(code, symbol, start, end, date, **kwargs):
     # Fixme : 지금은 stock, product만 추가되어 있다.
-    #   index, commodity, bond, derivatice, oversees 등도 추가해주자.
+    #   index, commodity, bond, derivative, oversees 등도 추가해주자.
 
     day = kwargs.get("day")
     division = kwargs.get("division")

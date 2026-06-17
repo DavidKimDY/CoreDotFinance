@@ -30,7 +30,7 @@ class KrxReader:
             return
         if re.match(r"[0-9]{4}-[0-1][0-9]-([0-2][0-9]|3[0-1])", date) is None:
             raise ValueError(
-                f"date is supposed to be 'YYYY-MM-DD and proper date, but {date}"
+                f"date is supposed to be 'YYYY-MM-DD' and proper date, but {date}"
             )
 
     def _date_convert(self, date):
